@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "5d713995b721c3bb38c1f5d0",
+    "user": "5d7a514b5d2c12c7449be045",
+    "name": "Test Bootcamp",
+    "description": "Tech is a full stack JavaScript Bootcamp located in the heart of Boston that focuses on the technologies you need to get a high paying job as a web developer",
+    "website": "https://techbootcamp.com",
+    "phone": "(111) 111-1111",
+    "email": "tech@techbootcamp.com",
+    "address": "B56 Sector 67 Noida 201301",
+    "careers": ["Web Development", "UI/UX", "Business"],
+    "housing": true,
+    "jobAssistance": true,
+    "jobGuarantee": false,
+    "acceptGi": true
+  }
+  
+]
